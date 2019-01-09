@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: #E7FF70;
+  text-shadow: 2px 2px #000000;
+  font-size: 25px;
+}
+
+h1 {
+  color: #64EBD1;
+}
